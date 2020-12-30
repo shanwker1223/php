@@ -1,3 +1,3 @@
 <?php
 $title = 'PHP Basics';
-require_once('../templates/main.php');
+require_once('../templates/readme.php');
